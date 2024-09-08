@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     function updateCountdown() {
-        const launchDate = new Date('2024-09-10T00:00:00'); // Set your launch date here
+        const launchDate = new Date('2024-09-13T00:00:00'); // Set your launch date here
         const now = new Date();
         const timeRemaining = launchDate - now;
 
