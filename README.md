@@ -44,4 +44,4 @@ For any questions or feedback, feel free to reach out to us .
 
 Thank you for your interest in VaultChain! We look forward to providing you with a secure and innovative solution for managing your data.
 
-*The VaultChain Team*
+
