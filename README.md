@@ -44,7 +44,7 @@ For any questions or feedback, feel free to reach out to us .
 
 ## Our Valuable Contributors ❤️✨
 
-[![Contributors](https://contrib.rocks/image?repo=say-het/WordWise)](https://github.com/say-het/WordWise/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=say-het/VaultChain)](https://github.com/say-het/VaultChain/graphs/contributors)
 
 ---
 
