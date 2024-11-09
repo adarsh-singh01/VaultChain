@@ -44,7 +44,7 @@ For any questions or feedback, feel free to reach out to us .
 
 ## Our Valuable Contributors ❤️✨
 
-[![Contributors](https://contrib.rocks/image?repo=say-het/VaultChain)](https://github.com/say-het/VaultChain/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=adarsh-singh01/VaultChain)](https://github.com/adarsh-singh01/VaultChain/graphs/contributors)
 
 ---
 
