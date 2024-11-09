@@ -42,6 +42,16 @@ For any questions or feedback, feel free to reach out to us .
 
 ---
 
-Thank you for your interest in VaultChain! We look forward to providing you with a secure and innovative solution for managing your data.
+## Our Valuable Contributors ❤️✨
 
+[![Contributors](https://contrib.rocks/image?repo=say-het/WordWise)](https://github.com/say-het/WordWise/graphs/contributors)
 
+---
+
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
+</div>
+
+## Show some ❤️ by starring this awesome repository!
